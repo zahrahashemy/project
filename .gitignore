@@ -1,0 +1,4 @@
+asset/app.js
+*.zip
+!public.zip
+asset/**/index.html
